@@ -11,8 +11,8 @@ My data portfolio for DA
 - R Basic
 - R Data Transformation
 - R DataViz
-- STAT 1-4
-- ML 1-2
+- STAT 1-4 for DA
+- ML 1-2 for DA
 - Python Basic
 - Python for DA
 - Dashboard (Looker, Tableau)
